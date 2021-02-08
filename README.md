@@ -1,3 +1,15 @@
 # Technical Writer Task
 
-Please submit your suggested recommendations as a markdown file and create a Pull Request for the attention of anita@qredo.com
+Please submit your suggested 5 recommendations as a markdown file to this repository.
+
+How?
+
+1. Clone the repository
+
+2. Create a new branch
+
+2. Add your file to the new branch
+
+3. Create a Pull Request with ddocs as a reviewer
+
+
