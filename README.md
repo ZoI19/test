@@ -8,7 +8,7 @@ How?
 
 2. Create a new branch
 
-2. Add your file to the new branch
+2. Add your markdown file to the new branch
 
 3. Create a Pull Request with ddocs as a reviewer
 
