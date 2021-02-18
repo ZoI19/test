@@ -1,9 +1,9 @@
 # Technical Writer Task
 
-Recommendations for current [Getting Started](https://support.qredo.com/docs/Getting%20Started) page
+## Recommendations for current [Getting Started](https://support.qredo.com/docs/Getting%20Started) page
  
 
-1.  First sentence directs user to external page but without URL. This page should contain 
+### 1.  First sentence directs user to external page but without URL. This page should contain 
     all required instructions for Getting Started and no other information (e.g. video links, 
     FAQs, external instructions). User should not have to leave the page until they have Got Started. 
     This page  
@@ -12,18 +12,18 @@ Recommendations for current [Getting Started](https://support.qredo.com/docs/Get
 
     Suggest the page should comprise only step instructions and brief *Notes*, *Cautions* or *Warnings* (as defined in the Standard)
     e.g.
-    1. Obtain the Oredo Web App here
-    2. Prepare and install Oredo Web App
+    #### 1. Obtain the Oredo Web App here
+    #### 2. Prepare and install Oredo Web App
         2.1
         2.2
         2.3 etc
-    3. Obtain the Oredo Signing App here
-    4. Authenticate Oredo Signing App 
+    #### 3. Obtain the Oredo Signing App here
+    #### 4. Authenticate Oredo Signing App 
         4.1
         4.2
         4.3 etc
 
-2.  "There are 3 sets of steps as follows:
+### 2.  "There are 3 sets of steps as follows:
 	    1.	Web app steps       #wallet-app-steps anchor missing
         2.	Signing app steps
 	    3.	Login steps"
