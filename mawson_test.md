@@ -48,10 +48,11 @@ The text presented as a **Note** should be **step instructions**.
 
 **Suggestion** 
 Brevity and consistency of wording for easier reading:
->1 Write down or store your seed recovery phrase on a device that does not connect to the internet<BR>
->2 Save the email address used to register on Qredo<BR>
->3 Store seed recovery phrase and email address used in separate devices<BR>
->4 Follow steps in Recovery section [add link] to test master seed recovery<BR>
+
+1 Write down or store your seed recovery phrase on a device that does not connect to the internet<BR>
+2 Save the email address used to register on Qredo<BR>
+3 Store seed recovery phrase and email address used in separate devices<BR>
+4 Follow steps in Recovery section [add link] to test master seed recovery<BR>
 
 **Suggestion** 
 Integrate these steps to appropriate section of instruction sequence.
