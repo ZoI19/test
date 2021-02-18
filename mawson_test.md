@@ -36,18 +36,18 @@ Missing anchor in 1. Web app steps:
 ## 3. Define structure of elements such as Notes, Warnings, Steps
 
 The text presented as a **Note** should be **step instructions**.
->1 Write down your seed recovery phrase clearly. <BR>
->2 Note down each word in the seed recovery phrase. <BR>
->3 Ensure that you note down the email address you used to register on Qredo. <BR>
+>1 Write down your seed recovery phrase clearly.<BR>
+>2 Note down each word in the seed recovery phrase.<BR>
+>3 Ensure that you note down the email address you used to register on Qredo.<BR>
 > You will need this email address for recovering your master seed.<BR>
 >4 Keep the email address in a separate place to the word list.<BR>
 >5 Ensure that the order of the words in the seed phrase is correct by numbering each word in the phrase.<BR>
 >6 Store the seed recovery phrase in a safe place.<BR>
 >7 Do not store the seed recovery phrase on a device that is connected to the internet.<BR>
->8 To test master seed recovery, you should perform the steps in the Recovery section. <BR>
+>8 To test master seed recovery, you should perform the steps in the Recovery section.<BR>
 > Once familiar, you can return to these steps for the setup process.
 
-**Suggestion** <BR>
+**Suggestion**<BR>
 Brevity and consistency of wording for easier reading:
 
 1 Write down or store your seed recovery phrase on a device that does not connect to the internet<BR>
@@ -55,18 +55,16 @@ Brevity and consistency of wording for easier reading:
 3 Store seed recovery phrase and email address used in separate devices<BR>
 4 Follow steps in Recovery section [add link] to test master seed recovery<BR>
 
-**Suggestion** <BR>
+**Suggestion**<BR>
 Integrate these steps to appropriate section of instruction sequence.
 
 ## 4. Make instructions linear and single sequence
-**Suggestion** <BR>
-Ensure all steps are a linear sequence to avoid necessity of return or external reference. 
+**Suggestion**<BR>
+Ensure all steps are a linear sequence to avoid necessity of return or external reference.<BR> 
+This includes numbering all level two and level three headings as e.g. 1.1 and 1.1.1, 1.1.2, for <BR>
+a clear and simple sequence to follow in a multi-dependency configuration process.<BR>
 
-This includes numbering all level two and level three headings as e.g. 1.1 and 1.1.1, 1.1.2, for 
-
-a clear and simple sequence to follow in a multi-dependency configuration process.
-
-Example:
+Example:<BR>
 > 1. Web App Steps<BR>
 > 1.1 Start Registration<BR>
 > 1.1.1 Establish Qredo Identity<BR>
@@ -80,36 +78,33 @@ Example:
 
 
 ## 5. Simplified and standardised language 
-### 5.1  Standardise naming conventions
+### 5.1  Standardise naming conventions<BR>
 e.g. 'Phone App',  'Qredo Signing App', 'mobile app' 
-**Suggestion** 
+**Suggestion**<BR> 
 Obtain agreement on single form and use everywhere.
 
-### 5.2 Remove backwards references
+### 5.2 Remove backwards references<BR>
 e.g.  'Once you have downloaded the Qredo Signing App, you are ready to pair your phone with the Qredo Web App.'
 
-**Suggestion** 
-
+**Suggestion**<BR> 
 Ensure sequence can be followed without return or external reference.
 
-### 5.3 Replace future with present tense or change to imperative form
+### 5.3 Replace future with present tense or change to imperative form<BR>
 e.g.  'You will see a landing page for the mobile app on your phone.'
 
-**Suggestion** 
-
+**Suggestion**<BR> 
 'On the Qredo Signing App landing page, click X'
-
 
 ========================================================================
 
-# Favourite (or most useful) Best Practice Documents
+# Favourite (or most useful) Best Practice Documents<BR>
 1. [Official page of the ASD Simplified Technical English Specification](http://asd-ste100.org/)
 2. [Microsoft step instruction writing guide](https://docs.microsoft.com/en-us/style-guide/procedures-instructions/writing-step-by-step-instructions)
 3. [Official website of US government on writing for the Web](https://www.plainlanguage.gov/guidelines/web/)
 4. [ISO guide to creation of standards](https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/how-to-write-standards.pdf)
 
 
-# A favourite example of technical documentation
+# A favourite example of technical documentation<BR>
 [Get started with Logic Pro overview](https://support.apple.com/en-gb/guide/logicpro/lgcpca46988d/mac)
 
 
