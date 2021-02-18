@@ -28,7 +28,8 @@ e.g.
 > 2.	Signing app steps
 > 3.	Login steps
 
-Missing anchor in 1. Web app steps: **#wallet-app-steps** should be **#web-app-steps**
+Missing anchor in 1. Web app steps: 
+**#wallet-app-steps** should be **#web-app-steps**
 
 ## 3. Define structure of elements such as Notes, Warnings, Steps
 
