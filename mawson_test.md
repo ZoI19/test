@@ -99,7 +99,7 @@ On the Qredo Signing App landing page, click X
 
 
 # A favourite example of technical documentation
-[Get started with Logic Pro overview] (https://support.apple.com/en-gb/guide/logicpro/lgcpca46988d/mac)
+[Get started with Logic Pro overview](https://support.apple.com/en-gb/guide/logicpro/lgcpca46988d/mac)
 
 
 
