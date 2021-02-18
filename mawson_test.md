@@ -92,10 +92,10 @@ On the Qredo Signing App landing page, click X
 ========================================================================
 
 # Favourite (or most useful) Best Practice Documents
-##1. [Official page of the ASD Simplified Technical English Specification](http://asd-ste100.org/)
-##2. [Microsoft step instruction writing guide](https://docs.microsoft.com/en-us/style-guide/procedures-instructions/writing-step-by-step-instructions)
-##3. [Official website of US government on writing for the Web](https://www.plainlanguage.gov/guidelines/web/)
-##4. [ISO guide to creation of standards](https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/how-to-write-standards.pdf)
+## 1. [Official page of the ASD Simplified Technical English Specification](http://asd-ste100.org/)
+## 2. [Microsoft step instruction writing guide](https://docs.microsoft.com/en-us/style-guide/procedures-instructions/writing-step-by-step-instructions)
+## 3. [Official website of US government on writing for the Web](https://www.plainlanguage.gov/guidelines/web/)
+## 4. [ISO guide to creation of standards](https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/how-to-write-standards.pdf)
 
 
 # A favourite example of technical documentation
