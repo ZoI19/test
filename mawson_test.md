@@ -11,7 +11,8 @@ This page
 - must be self-explanatory and be as close as possible to a guarantee of Getting Started.
 
  **Suggestion** 
- The page should comprise only step instructions and brief *Notes*, *Cautions* or *Warnings* (as defined in the Standard)
+
+The page should comprise only step instructions and brief *Notes*, *Cautions* or *Warnings* (as defined in the Standard)
 e.g.
 1. Obtain the Oredo Web App here
 2. Prepare and install Oredo Web App
@@ -46,7 +47,7 @@ The text presented as a **Note** should be **step instructions**.
 >8 To test master seed recovery, you should perform the steps in the Recovery section. <BR>
 > Once familiar, you can return to these steps for the setup process.
 
-**Suggestion** 
+**Suggestion** <BR>
 Brevity and consistency of wording for easier reading:
 
 1 Write down or store your seed recovery phrase on a device that does not connect to the internet<BR>
@@ -54,30 +55,32 @@ Brevity and consistency of wording for easier reading:
 3 Store seed recovery phrase and email address used in separate devices<BR>
 4 Follow steps in Recovery section [add link] to test master seed recovery<BR>
 
-**Suggestion** 
+**Suggestion** <BR>
 Integrate these steps to appropriate section of instruction sequence.
 
 ## 4. Make instructions linear and single sequence
-**Suggestion** 
+**Suggestion** <BR>
 Ensure all steps are a linear sequence to avoid necessity of return or external reference. 
+
 This includes numbering all level two and level three headings as e.g. 1.1 and 1.1.1, 1.1.2, for 
+
 a clear and simple sequence to follow in a multi-dependency configuration process.
 
 Example:
-> 1. Web App Steps
-> 1.1 Start Registration
-> 1.1.1 Establish Qredo Identity
-> (sub steps)
-> 1.1.2 Set Password
-> (sub steps)
-> 1.1.3 Accept Terms and Conditions
-> (sub steps)
-> 1.1.4 Validate Email Address
-> (sub steps)
+> 1. Web App Steps<BR>
+> 1.1 Start Registration<BR>
+> 1.1.1 Establish Qredo Identity<BR>
+> (sub steps)<BR>
+> 1.1.2 Set Password<BR>
+> (sub steps)<BR>
+> 1.1.3 Accept Terms and Conditions<BR>
+> (sub steps)<BR>
+> 1.1.4 Validate Email Address<BR>
+> (sub steps)<BR>
 
 
 ## 5. Simplified and standardised language 
-### 5.1  Standardise naming conventions:
+### 5.1  Standardise naming conventions
 e.g. 'Phone App',  'Qredo Signing App', 'mobile app' 
 **Suggestion** 
 Obtain agreement on single form and use everywhere.
