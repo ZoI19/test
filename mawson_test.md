@@ -97,7 +97,7 @@ e.g.  'You will see a landing page for the mobile app on your phone.'
 
 **Suggestion** 
 
-On the Qredo Signing App landing page, click X
+'On the Qredo Signing App landing page, click X'
 
 
 ========================================================================
