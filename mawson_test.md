@@ -36,14 +36,23 @@ Missing anchor in 1. Web app steps:
 
 The text presented as a **Note** should be **step instructions**.
 >1 Write down your seed recovery phrase clearly.
+
 >2 Note down each word in the seed recovery phrase.
+
 >3 Ensure that you note down the email address you used to register on Qredo. 
+
 > You will need this email address for recovering your master seed.
+
 >4 Keep the email address in a separate place to the word list.
+
 >5 Ensure that the order of the words in the seed phrase is correct by numbering each word in the phrase.
+
 >6 Store the seed recovery phrase in a safe place.
+
 >7 Do not store the seed recovery phrase on a device that is connected to the internet.
+
 >8 To test master seed recovery, you should perform the steps in the Recovery section. 
+
 > Once familiar, you can return to these steps for the setup process.
 
 **Suggestion** 
