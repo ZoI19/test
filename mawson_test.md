@@ -87,12 +87,16 @@ Obtain agreement on single form and use everywhere.
 
 ### 5.2 Remove backwards references
 e.g.  'Once you have downloaded the Qredo Signing App, you are ready to pair your phone with the Qredo Web App.'
+
 **Suggestion** 
+
 Ensure sequence can be followed without return or external reference.
 
 ### 5.3 Replace future with present tense or change to imperative form
 e.g.  'You will see a landing page for the mobile app on your phone.'
+
 **Suggestion** 
+
 On the Qredo Signing App landing page, click X
 
 
