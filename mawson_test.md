@@ -14,14 +14,14 @@ This page
 
 The page should comprise only step instructions and brief *Notes*, *Cautions* or *Warnings* (as defined in the Standard)
 e.g.
-1. Obtain the Oredo Web App here
-2. Prepare and install Oredo Web App
-    2.1 
-    2.2 etc
-3. Obtain the Oredo Signing App here
-4. Authenticate Oredo Signing App
-    4.1
-    4.2 etc
+1. Obtain the Oredo Web App here<BR>
+2. Prepare and install Oredo Web App<BR>
+    2.1 <BR>
+    2.2 etc<BR>
+3. Obtain the Oredo Signing App here<BR>
+4. Authenticate Oredo Signing App<BR>
+    4.1<BR>
+    4.2 etc<BR>
 
 ## 2. Missing anchor
 > There are 3 sets of steps as follows:
